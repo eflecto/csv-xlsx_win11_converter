@@ -46,10 +46,7 @@ A beautiful, feature-rich Windows 11 utility for converting CSV files to Excel (
 ### Quick Start
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/csv-to-xlsx-converter.git
-cd csv-to-xlsx-converter
-```
+
 
 2. **Create a virtual environment (recommended)**
 ```bash
