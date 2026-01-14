@@ -1,6 +1,6 @@
 # 📊 CSV to XLSX Converter
 
-A beautiful, feature-rich Windows 11 utility for converting CSV files to Excel (XLSX) format with extensive customization options
+A beautiful, feature-rich Windows 11 utility for converting CSV files to Excel (XLSX) format with extensive customization options!
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
